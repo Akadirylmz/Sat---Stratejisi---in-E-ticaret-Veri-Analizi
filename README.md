@@ -1,4 +1,4 @@
-# Sat---Stratejisi---in-E-ticaret-Veri-Analizi
+# Satis-Stratejisi-Icin-E-ticaret-Veri-Analizi
 Satış Stratejisi İçin E-ticaret Veri Analizi
 
 Bir e-ticaret sitesinin yıllık satış inceleme toplantısının bir parçası
